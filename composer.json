@@ -1,0 +1,21 @@
+{
+    "name": "khalmeev/yii2-rest",
+    "description": "rest",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "master",
+            "email": "khalmeev@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "khalmeev\\rest\\": ""
+        }
+    }
+}
